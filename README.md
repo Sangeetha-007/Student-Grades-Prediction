@@ -27,6 +27,11 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 
 <img width="600" height="400" alt="newplot (6)" src="https://github.com/user-attachments/assets/64327a46-be64-45ce-a2f3-134351ad5d46" />
 
+<img width="489" height="477" alt="__results___21_0" src="https://github.com/user-attachments/assets/c0439a65-9836-4599-a093-135977d1a232" />
+
+<img width="488" height="476" alt="__results___32_0" src="https://github.com/user-attachments/assets/a8b347be-8642-459f-92b6-508b789b8b8a" />
+
+<img width="489" height="477" alt="__results___34_0" src="https://github.com/user-attachments/assets/beb5adc1-337c-44a7-a906-d98d7a0cb557" />
 
 ## Modeling
 ## Results
