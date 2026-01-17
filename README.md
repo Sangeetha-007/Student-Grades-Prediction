@@ -34,8 +34,8 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 <img width="489" height="477" alt="__results___34_0" src="https://github.com/user-attachments/assets/beb5adc1-337c-44a7-a906-d98d7a0cb557" />
 
 ## Modeling
-* Linear Regression: All columns were passes in. Non numeric values were converted to integers. 
-* Neural Network: All columns were used for the Neural Network: numeric, ordinal and nominal. 
+* Linear Regression: All columns were passed in. Non numeric values were converted to integers. Correlation heatmap was used to determine which features to be used. 
+* Neural Network: All columns were used for the Neural Network: numeric, ordinal and nominal. Ordinal values were used through the Ordinal Encoder. 
 
 ## Results
 
