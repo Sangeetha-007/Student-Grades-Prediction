@@ -34,6 +34,9 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 <img width="489" height="477" alt="__results___34_0" src="https://github.com/user-attachments/assets/beb5adc1-337c-44a7-a906-d98d7a0cb557" />
 
 ## Modeling
+* Linear Algebra:
+* Neural Network: 
+
 ## Results
 
 
