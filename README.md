@@ -39,8 +39,8 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 
 ## Results
 * Linear Regression:
-R²: 0.7335
-MAE: 7.8042
+R²: 0.7335,
+MAE: 7.8042,
 RMSE: 9.7351
 
 
