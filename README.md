@@ -38,9 +38,9 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 * Neural Network: All columns were used for the Neural Network: numeric, ordinal and nominal. Ordinal values were used through the Ordinal Encoder. 
 
 ## Results
-* Linear Regression:
-R²: 0.7335,
-MAE: 7.8042,
-RMSE: 9.7351
+1. Linear Regression:
+* R²: 0.7335,
+* MAE: 7.8042,
+* RMSE: 9.7351
 
 
