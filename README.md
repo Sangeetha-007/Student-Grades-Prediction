@@ -39,9 +39,9 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 
 ## Results
 1. Linear Regression:
-* R²: 0.7335,
-* MAE: 7.8042,
-* RMSE: 9.7351
+* R²: 0.7335, R² explains how much variance is explained by the model. 73% of the variance in exam scores is explained by all the columns.
+* MAE: 7.8042, Mean Absolute Error (MAE) shows Average absolute difference between predicted and actual scores. The model’s MAE of 7.8 means that, on average, predictions differ from actual exam scores by about 8 points.
+* RMSE: 9.7351, An RMSE of 9.7, which is higher than the MAE, suggests that while most predictions are reasonable, a few cases have larger errors/outliers. 
 
 2. Neural Network: 
 
