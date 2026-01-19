@@ -35,7 +35,7 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 
 ## Modeling
 * Linear Regression: All columns were passed in. Non numeric values were converted to integers. Correlation heatmap was used to determine which features to be used. 
-* Neural Network: All columns were used for the Neural Network: numeric, ordinal and nominal. Ordinal values were used through the Ordinal Encoder. For a neural network, non integer values can't be converted as integers because the integers don't have meaning. Non integer columms must be encoded first. 
+* Neural Network: All columns were used for the Neural Network: numeric, ordinal and nominal. Ordinal values were used through the Ordinal Encoder. For a neural network, non integer values can't be converted as integers because the integers don't have meaning. Non integer columms must be encoded first. Ordinal features have order (sleep_quality). Nominal features features don't have an order (gender). 
 
 ## Results
 1. Linear Regression:
