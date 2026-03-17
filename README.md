@@ -5,6 +5,7 @@ Built an end-to-end machine learning pipeline to predict student exam scores usi
 ## Technologies Used
 * Python: pandas, NumPy, Matplotlib, seaborn
 * Models: Neural Network, Linear Regression
+* MLOps: Docker
 
 ## Data Acquisition
 The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/playground-series-s6e1/data?select=train.csv
