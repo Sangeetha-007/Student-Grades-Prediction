@@ -14,7 +14,7 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
 * Linear Regression
 * Neural Network
 
-## Data Exploration
+## Data Exploration (Exploratory Data Analysis)
 
 <img width="600" height="400" alt="newplot (1)" src="https://github.com/user-attachments/assets/92476e4f-2cdf-4cd5-8078-7421f8d0dcd1" />
 
