@@ -10,6 +10,9 @@ Built an end-to-end machine learning pipeline to predict student exam scores usi
 ## Data Acquisition
 The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/playground-series-s6e1/data?select=train.csv
 
+## Installation
+Datasets: https://www.kaggle.com/competitions/playground-series-s6e1/data?select=train.csv
+
 ## Methodology:
 * Linear Regression
 * Neural Network
