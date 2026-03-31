@@ -47,6 +47,11 @@ The datasets are from a Kaggle competition: https://www.kaggle.com/competitions/
   The Linear Regression model achieved an R² score of 0.73, indicating that the selected features explain 73% of the variability in exam scores. The model’s MAE of 7.8 suggests predictions are, on average, within 8 points of the true score, while an RMSE of 9.7 indicates the presence of some larger errors.
 
 2. Neural Network:
+* R2:   0.7795
+* MAE:  7.0686
+* RMSE: 8.8560
+
+
 
 ## Limitations
 
